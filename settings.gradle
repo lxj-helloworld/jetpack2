@@ -1,0 +1,4 @@
+rootProject.name='jetpack'
+include ':app'
+include ':room'
+include ':roomstruc'
